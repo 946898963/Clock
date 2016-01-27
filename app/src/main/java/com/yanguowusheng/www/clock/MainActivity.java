@@ -10,5 +10,6 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(new Clock(this));
+        //实验一下
     }
 }
